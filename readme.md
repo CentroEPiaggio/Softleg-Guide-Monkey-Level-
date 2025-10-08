@@ -118,7 +118,7 @@ ros2 run plotjuggler plotjuggler
 
 ---
 
-# 🎥 Q-ANALYSIS (QUALISYS) — “SCIMMIA” GUIDE
+# 🎥 Q-ANALYSIS (QUALISYS) — monkey level
 
 ## 1. Network Setup
 
